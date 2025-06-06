@@ -22,16 +22,4 @@ A console-based Sudoku game implemented in C++ using object-oriented programming
   - STL vector for board representation
   - Modular architecture
 
-## Getting Started
 
-### Prerequisites
-
-- C++ compiler (g++ or clang++)
-- CMake (version 3.10 or higher)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sudoku-cpp.git
-   cd sudoku-cpp
